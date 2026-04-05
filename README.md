@@ -14,7 +14,7 @@ In addition, significant heterogeneity exists across firms in terms of productio
 
 Against the backdrop, this study seeks to address these gaps by generating firm-level evidence on emissions and environmental efficiency in Nepal’s cement sector. Specifically, it examines how total CO₂ emissions have evolved over time, evaluates differences in eco-efficiency when both economic output and environmental costs are jointly considered, and assesses whether technological adoption plays a significant role in shaping firms’ environmental performance. By doing so, the study aims to provide a robust empirical foundation for informed policymaking and support Nepal’s transition toward a low-carbon industrial pathway.
 
-**Research Question:**
+Research Question:
 
 •	How have tCO₂ emissions from Nepalese cement manufacturing firms changed over time?
 
@@ -33,11 +33,12 @@ Greenhouse gas (GHG) emissions—including CO₂, CH₄, and N₂O—are estimat
 
 All emission variables are measured at the firm–year level and expressed in metric tons of CO₂ equivalent (tCO₂e), defined as follows:
 
-•	**Scope 1 Emissions (tCO₂e):** Direct emissions from on-site fuel combustion (coal and diesel) and process emissions from limestone calcination during clinker production.
+•	Scope 1 Emissions (tCO₂e): Direct emissions from on-site fuel combustion (coal and diesel) and process emissions from limestone calcination during clinker production.
 
-•	**Scope 2 Emissions (tCO₂e):** Indirect emissions associated with purchased electricity consumption.
+•	Scope 2 Emissions (tCO₂e): Indirect emissions associated with purchased electricity consumption.
 
-•	**Total Emissions (tCO₂e):** The aggregate of Scope 1 and Scope 2 emissions.
+•	Total Emissions (tCO₂e): The aggregate of Scope 1 and Scope 2 emissions.
+
 Data cleaning and interpolation techniques are applied to address missing observations and ensure consistency across firms and time periods.
 
 Eco-Efficiency Measurement
@@ -64,7 +65,7 @@ Statistical Method
 
 An independent sample t-test is conducted to assess whether differences in technological adoption significantly influence firms’ eco-efficiency scores. This analysis provides empirical evidence on the role of technology in shaping environmental performance within Nepal’s cement industry.
 
-Results: Figures and Statistical tests
+**Results: Figures and Statistical tests**
 
 •	Descriptive Details of Main Variables
 
