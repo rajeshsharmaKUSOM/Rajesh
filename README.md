@@ -15,7 +15,9 @@ In addition, significant heterogeneity exists across firms in terms of productio
 Against the backdrop, this study seeks to address these gaps by generating firm-level evidence on emissions and environmental efficiency in Nepal’s cement sector. Specifically, it examines how total CO₂ emissions have evolved over time, evaluates differences in eco-efficiency when both economic output and environmental costs are jointly considered, and assesses whether technological adoption plays a significant role in shaping firms’ environmental performance. By doing so, the study aims to provide a robust empirical foundation for informed policymaking and support Nepal’s transition toward a low-carbon industrial pathway.
 
 **Research Question:**
+
 •	How have tCO₂ emissions from Nepalese cement manufacturing firms changed over time?
+
 •	Does technological adoption influence the eco-efficiency of cement firms in Nepal?
 
 
@@ -32,7 +34,9 @@ Greenhouse gas (GHG) emissions—including CO₂, CH₄, and N₂O—are estimat
 All emission variables are measured at the firm–year level and expressed in metric tons of CO₂ equivalent (tCO₂e), defined as follows:
 
 •	**Scope 1 Emissions (tCO₂e):** Direct emissions from on-site fuel combustion (coal and diesel) and process emissions from limestone calcination during clinker production.
+
 •	**Scope 2 Emissions (tCO₂e):** Indirect emissions associated with purchased electricity consumption.
+
 •	**Total Emissions (tCO₂e):** The aggregate of Scope 1 and Scope 2 emissions.
 Data cleaning and interpolation techniques are applied to address missing observations and ensure consistency across firms and time periods.
 
@@ -46,26 +50,40 @@ Firms are categorized into high and low technology adoption groups based on the 
 	
 	Score Description
 	
-4	Advanced integrated system (VRM + waste heat recovery + efficient kiln)
-3	VRM with modern kiln
-2	Modern kiln without advanced grinding
-1	Ball mill or outdated systems
+4-Advanced integrated system (VRM + waste heat recovery + efficient kiln)
+
+3-VRM with modern kiln
+
+2-Modern kiln without advanced grinding
+
+1-Ball mill or outdated systems
 
 This index captures variation in technological sophistication and its potential environmental implications. Based on the score distribution, firms with a score of 3 and above are classified as high technology adopters, while those with a score below 3 are categorized as low technology adopters.
 
 Statistical Method
 
 An independent sample t-test is conducted to assess whether differences in technological adoption significantly influence firms’ eco-efficiency scores. This analysis provides empirical evidence on the role of technology in shaping environmental performance within Nepal’s cement industry.
-3.	Results: Figures and Statistical tests
+
+Results: Figures and Statistical tests
+
 •	Descriptive Details of Main Variables
+
 •	Plot: Total Yearly tCO2 Emission
+
 •	Plot: Average Yearly tCO2 Emission
+
 •	Plot: Combined both, Total and Average tCO2 Emission
+
 •	Plot: Year on Year Percentage Growth of Total Emission
+
 •	Plot: Top Five CO2 Emitting Firms
+
 •	Plot: Emission Percentage by Top Five Firms
+
 •	Plot: Total Emission of all Individual Cement Companies (ordered according to their total emissions)
+
 •	Finding Eco- Efficient Firms using DEA Method
+
 •	Statistical Test: Use Eco-Efficiency Score (pooled_eff) with respect to Technology Category for T-Test
 
 
